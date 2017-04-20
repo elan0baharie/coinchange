@@ -1,4 +1,4 @@
-require('rspec')
+equire('rspec')
 require('./lib/coin_methd')
 
 describe("String#coin_methd") do
